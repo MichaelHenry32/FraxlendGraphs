@@ -7,3 +7,7 @@ The easiest way to run this repository without downloading any code is on MyBind
 
 # Next Steps
 The under-development YieldTokenHelpers project, https://github.com/MichaelHenry32/YieldTokenHelpers, aims to create a maximally IFraxlendPair compatible wrapper around sfrxUSD to make UI visualization migrations trival. Of note, the YieldTokenHelpers will not be able to interact with the various "write" borrow methods.
+
+
+# Disclaimer
+Outside of the algorithms, the following code was mostly AI-generated and is not suitable for a production environment
